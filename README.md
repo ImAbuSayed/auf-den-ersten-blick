@@ -32,7 +32,10 @@
 
 ## 📝 Lyric Preview
 
-> [Excerpt will appear here after the final lyric is saved.]
+> Auf den ersten Blick war alles klar, du bist der Vibe
+> Fahre vor im AMG durch die dunkle Night
+> Baby, deine Augen strahlen heller als die Skyline hier
+> Steig ein in mein Life, komm und teil die Welt mit mir
 > ...
 
 [**View Full Lyrics**](./lyrics.txt) | [**View Metadata**](./manifest.json) | [**View Proofs**](./hashes.txt)
