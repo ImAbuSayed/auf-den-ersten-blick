@@ -15,7 +15,7 @@
 | **Written On** | June 24, 2026 |
 | **Song Page** | [Open Song Page](https://imabusayed.github.io/auf-den-ersten-blick/) |
 | **License** | [View License](./LICENSE.md) |
-| **Get License** | [Music Rights & Licensing for Auf den ersten Blick](https://music.abusayed.com.bd/Licensing/?https://imabusayed.github.io/auf-den-ersten-blick/) |
+| **Get License** | [Obtain a Music License for Auf den ersten Blick](https://music.abusayed.com.bd/Licensing/?https://imabusayed.github.io/auf-den-ersten-blick/) |
 | **Author** | Abu Sayed |
 | **Rights** | All Rights Reserved |
 
@@ -110,7 +110,7 @@ This song is an original creative work by Abu Sayed. All lyrics, melody, and com
 |:-------------------|:------------|
 | **Author** | Abu Sayed |
 | **Version** | `v1` |
-| **SHA-256 Hash** | `N/A` |
+| **SHA-256 Hash** | `8be2f28c3c12060577ab2222c32fe3e7f5fe77a7420c066c2913728c417272b9` |
 | **Timestamp** | June 28, 2026 |
 
 See [LICENSE.md](./LICENSE.md) for full terms and conditions.

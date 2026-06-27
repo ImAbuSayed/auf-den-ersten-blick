@@ -1,0 +1,10 @@
+# Cryptographic Proof of Authorship Log - Auf den ersten Blick
+
+This log tracks the cryptographic history and versioning for the song **Auf den ersten Blick** (auf-den-ersten-blick).
+
+| Timestamp | Version | Clean SHA-256 Hash | Raw SHA-256 Hash | Backup File |
+|:----------|:--------|:-------------------|:-----------------|:------------|
+| 2026-06-28T00:31:18.252185 | `v1` | `8be2f28c3c12060577ab2222c32fe3e7f5fe77a7420c066c2913728c417272b9` | `132a027ea2fd8655b3ebc3a2382dce186dd8a48b4bc02d168bc1a734bf499319` | `2026-06-28_auf-den-ersten-blick-v1.txt` |
+
+---
+*Written and Curated by Abu Sayed*
